@@ -1,0 +1,12 @@
+[
+   //Notes: Is Mod Try Civ V - Gods & Kings.
+   {
+		"name": "Paper Maker",
+		"replaces": "Library",
+		"uniqueTo": "China",
+		"hurryCostModifier": 25,
+		"gold": 2,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing"
+	}
+]
